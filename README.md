@@ -1,2 +1,3 @@
-In the path src/main/"java/com/example/guarden", you'll find the java code to the Guarden game. This game includes a plant that is dragged left or right on the screen to avoid bugs and rocks. If the plant comes in contact with any rock or bug, it loses a life. The plant has three lives. If there are no more lives, the game ends.
-In the path src/res/drawable, will be all the images I used for this game.
+In the path src/main/"java/com/example/guarden", you'll find the java code to the Guarden game. Like the name implies, your job is to guard the garden. This game includes a plant that is dragged left or right on the screen to avoid bugs and rocks. If the plant comes in contact with any rock or bug, it loses a life. The plant has three lives. If there are no more lives, the game ends.
+In the path src/res/drawable, will be all the images I used for this game, and src/res/font has the font used for the text in the game.
+Here is a short clip of the Game: [GuardenRecording.webm](https://github.com/SCCapstone/research-AzariahLaulusa7/assets/122847570/c3b32b4d-168a-4785-80c0-233c49ba4a69)
